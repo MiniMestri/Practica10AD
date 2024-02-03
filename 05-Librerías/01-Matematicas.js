@@ -4,7 +4,7 @@ console.log(Math.round(nota))
 //Redondea la nota a un entero hacia arriba
 console.log(Math.ceil(nota))
 //Redondea la nota a un entero hacia abajo
-console.log(Math.floor(nota
+console.log(Math.floor(nota))
                        
 var aleatorio = Math.random()
 console.log(aleatorio)

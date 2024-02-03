@@ -34,4 +34,4 @@ var persona1 = new Persona();
 persona1.setEdad( 26 );
 persona1.setNombre("Alfonso Lopez");
 console.log(persona1);
-console.log(persona1.saluda());
+console.log(persona1.respira());

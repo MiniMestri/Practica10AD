@@ -10,10 +10,11 @@ var agenda = [
     },
     {
         "nombre":"Pepe",
-        "telefono":1233235,
+        "telefono":1233235[
+            
+        ],
         "email":[
             "info@pepe.com",
-
         ]
     }
 ]

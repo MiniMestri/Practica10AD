@@ -1,4 +1,4 @@
-var EDAD = 45
+var EDAD = 35
 
 //Estructura simple if
 if(EDAD < 30){
@@ -6,7 +6,7 @@ if(EDAD < 30){
 }
 
 //Estructura anidada If-else, Podemos anidar todos los else if que queramos
-if(edad < 30){
+if(EDAD < 30){
     console.log("Eres un joven");
 }else{
     console.log("Ya no eres tan joven");
@@ -18,7 +18,7 @@ var DIA_SEMANA = "lunes"
 switch(DIA_SEMANA){
 case "lunes":
     console.log("Hoy es lunes");
-    break;
+    
 case "martes":
     console.log("Hoy es martes");
     break;

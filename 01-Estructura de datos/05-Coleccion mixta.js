@@ -1,3 +1,6 @@
+
+var agenda = []
+
 agenda[0] = []
 agenda[0]['nombre'] = "Jose Vicente";
 agenda[0]['telefono'] = "1234";
